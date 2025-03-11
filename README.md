@@ -54,6 +54,7 @@
 | [EndeavourOS Adjustment](https://samwhelp.github.io/endeavouros-adjustment/) | [GitHub](https://github.com/samwhelp/endeavouros-adjustment) |
 | [CachyOS Adjustment](https://samwhelp.github.io/cachyOS-adjustment/) | [GitHub](https://github.com/samwhelp/cachyOS-adjustment) |
 | [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
+| [LinuxMint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
 | [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
 | [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
