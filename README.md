@@ -31,6 +31,7 @@
 | [Garuda Xfce Adjustment](https://samwhelp.github.io/garuda-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-xfce-adjustment) |
 | [Garuda Kde Plasma Adjustment](https://samwhelp.github.io/garuda-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-kde-plasma-adjustment) |
 | [Garuda Kde Plasma Mokka Adjustment](https://samwhelp.github.io/garuda-kde-plasma-mokka-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-kde-plasma-mokka-adjustment) |
+| [Garuda Kde Plasma Dr460nized Adjustment](https://samwhelp.github.io/garuda-kde-plasma-dr460nized-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-kde-plasma-dr460nized-adjustment) |
 | [Garuda Gnome Shell Adjustment](https://samwhelp.github.io/garuda-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-gnome-shell-adjustment) |
 
 
