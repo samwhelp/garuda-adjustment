@@ -5,4 +5,7 @@
 
 mkdir -p mnt
 
+
+
+
 sudo umount mnt
