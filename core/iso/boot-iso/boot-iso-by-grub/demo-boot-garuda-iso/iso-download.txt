@@ -1,0 +1,11 @@
+https://iso.builds.garudalinux.org/iso/garuda/xfce/251103/garuda-xfce-linux-lts-251103.iso
+https://iso.builds.garudalinux.org/iso/garuda/mokka/251103/garuda-mokka-linux-zen-251103.iso
+https://iso.builds.garudalinux.org/iso/community/cosmic/251003/garuda-cosmic-linux-zen-251003.iso
+https://iso.builds.garudalinux.org/iso/garuda/cinnamon/251103/garuda-cinnamon-linux-zen-251103.iso
+https://iso.builds.garudalinux.org/iso/garuda/dr460nized/251104/garuda-dr460nized-linux-zen-251104.iso
+https://iso.builds.garudalinux.org/iso/garuda/gnome/251103/garuda-gnome-linux-zen-251103.iso
+https://iso.builds.garudalinux.org/iso/garuda/hyprland/251103/garuda-hyprland-linux-zen-251103.iso
+https://iso.builds.garudalinux.org/iso/garuda/sway/251103/garuda-sway-linux-zen-251103.iso
+https://iso.builds.garudalinux.org/iso/garuda/i3/251103/garuda-i3-linux-zen-251103.iso
+https://iso.builds.garudalinux.org/iso/garuda/kde-lite/251103/garuda-kde-lite-linux-zen-251103.iso
+https://iso.builds.garudalinux.org/iso/garuda/dr460nized-gaming/251103/garuda-dr460nized-gaming-linux-zen-251103.iso
